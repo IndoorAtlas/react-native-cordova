@@ -2,8 +2,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "com.remobile.cordova"
-    compileSdkVersion 34
-    //buildToolsVersion "30.0.3"
+    compileSdkVersion 31
 
     defaultConfig {
         minSdkVersion 16
